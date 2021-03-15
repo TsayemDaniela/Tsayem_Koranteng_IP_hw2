@@ -27,3 +27,5 @@ def N8(p, a, b):
         if p[1] != 0: N.append((p[0]+1, p[1]-1))
         if p[1] != b-1: N.append((p[0]+1, p[1]+1))
     return N
+
+def WS(inp, Nx)
