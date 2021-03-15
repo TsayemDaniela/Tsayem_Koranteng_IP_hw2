@@ -46,8 +46,8 @@ Contributions:
 
 Sources:
   P.Soille Textbook
-  f3:
-  f4:
+  f3: https://opencv-python-tutroals.readthedocs.io/en/latest/_images/water_coins.jpg
+  f4: unsplash.com
   f5: Paul Held. “Sample Preparation for Fluoresence Microscopy: An Introduction”. In: (July 2015).
   Python Documentation (CV2)
   
