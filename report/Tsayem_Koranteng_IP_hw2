@@ -23,16 +23,18 @@ Preprocessing (before watershed algorithm is applied) steps are achieved through
 predefined functions from the cv2 library.
 The prepocesssing steps / cv2 operations for these images are outlined: 
   f3:
-    1.  
-    2. 
+    1. Median Blur
+    2. Bilateral Filter
+    3. Adaptive Threshold (Gaussian & Binary)
     
   f4:
-    1.
-    2.
+    1. Bilateral Filter
+    2. Median Blur
+    3. Adaptive Threshold (Gaussian & Binary)
     
    f5:
-    1.
-    2.
+    1. Median Blur
+    2. Adaptive Threshold (Gaussian & Binary)
     
 All segmentations for selfchosen images use the 8- Neighbourhood comparison
 
@@ -46,8 +48,8 @@ Contributions:
 
 Sources:
   P.Soille Textbook
-  f3: https://opencv-python-tutroals.readthedocs.io/en/latest/_images/water_coins.jpg
-  f4: unsplash.com
+  f3:
+  f4:
   f5: Paul Held. “Sample Preparation for Fluoresence Microscopy: An Introduction”. In: (July 2015).
   Python Documentation (CV2)
   
