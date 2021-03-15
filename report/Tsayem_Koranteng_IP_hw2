@@ -35,3 +35,19 @@ The prepocesssing steps / cv2 operations for these images are outlined:
     2.
     
 All segmentations for selfchosen images use the 8- Neighbourhood comparison
+
+Contributions:
+  Report - Koranteng
+  Repo Set-up - Tsayem
+  Chosen Files - Korateng & Tsayem
+  Watershed - Koranteng
+  Neighbourhood - Tsayem
+  Main & Make File - Koranteng & Tsayem
+
+Sources:
+  P.Soille Textbook
+  f3:
+  f4:
+  f5: Paul Held. “Sample Preparation for Fluoresence Microscopy: An Introduction”. In: (July 2015).
+  Python Documentation (CV2)
+  
